@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="main_color" format="reference|color"/>
+    <attr name="app_action_color" format="reference|color"/>
+    <attr name="text_color_1" format="reference|color"/>
+    <attr name="text_color_2" format="reference|color"/>
+    <attr name="text_color_3" format="reference|color"/>
+    
+</resources>
