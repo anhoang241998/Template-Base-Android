@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rogo_Android_Base.iml" filepath="$PROJECT_DIR$/.idea/modules/Rogo_Android_Base.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Rogo_Android_Base.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Rogo_Android_Base.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-ui/Rogo_Android_Base.common-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/common-ui/Rogo_Android_Base.common-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Rogo_Android_Base.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Rogo_Android_Base.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Rogo_Android_Base.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Rogo_Android_Base.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Rogo_Android_Base.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Rogo_Android_Base.domain.iml" />
     </modules>
   </component>
 </project>

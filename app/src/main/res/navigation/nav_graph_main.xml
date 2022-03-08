@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.rogo.base.representation.splash.SplashFragment"
+        android:name="com.rogo.base.presentation.splash.SplashFragment"
         android:label="SplashFragment">
 
         <action
@@ -17,8 +17,9 @@
             app:popUpTo="@+id/nav_graph_main"
             app:popUpToInclusive="true" />
     </fragment>
+
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.rogo.base.representation.home.HomeFragment"
+        android:name="com.rogo.base.presentation.home.HomeFragment"
         android:label="HomeFragment" />
 </navigation>
