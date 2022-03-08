@@ -10,6 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
+        android:background="?main_color"
         tools:context=".presentation.splash.SplashFragment">
 
         <!-- TODO: Update blank fragment layout -->
@@ -19,7 +20,7 @@
             android:text="Hí anh em"
             android:gravity="center"
             android:layout_gravity="center"
-            android:textColor="@color/black"
+            android:textColor="?text_color_1"
 
             android:textSize="20dp"/>
 

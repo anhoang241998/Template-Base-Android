@@ -13,6 +13,7 @@ buildscript {
         lifecycle_version = "2.4.1"
         ext.material_dialog_version = '3.3.0'
         data_store = "1.0.0"
+        material_design = "1.5.0"
     }
 
     dependencies {
