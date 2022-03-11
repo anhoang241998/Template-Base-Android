@@ -17,6 +17,6 @@ class CommonViewModel @Inject constructor() : ViewModel() {
         viewModelScope.launch {
             ThemePreference.setDarkMode(context, isDarkMode)
         }
-        context.setDarkModeTheme(isDarkMode)
+        setDarkModeTheme(isDarkMode)
     }
 }
